@@ -1,6 +1,6 @@
 # mist-get_bssid
  
-This script is used to retrieve information for an input file of MAC addresses of mist APs from a specific site and export information on them to a CSV.
+This script is used to retrieve information for an input file of MAC addresses of mist APs from a specific site and export information on them to a CSV. The current input format expected is the export from the mist portal inventory page (again for a site).
 
 Information currently includes: 
 - Name
