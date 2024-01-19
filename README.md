@@ -18,3 +18,5 @@ https://www.nexuminc.com
 # CREDITS:
 Mist Access Point – CSV: https://artofrf.com/2022/02/09/mist-access-point-csv/  
 Mist Use Case Basics: https://api-class.mist.com/use_cases/
+
+## DISCLAIMER: I am not a programmer, I'm a network engineer. All config/script/code samples are from my test environments. Use them at your risk. They are provided as is without any warranty or assurance they will even work. Always test in a non-production environment before using it in production.
