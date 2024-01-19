@@ -1,0 +1,6 @@
+.env
+output/*
+*.csv
+!test.csv
+.DS_Store
+__*

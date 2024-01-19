@@ -1,0 +1,13 @@
+# Your Mist API token goes here. Documentation: https://api.mist.com/api/v1/docs/Auth#api-token
+mist_api_token = 'insert token here'
+
+# Your Organization ID goes here
+mist_org_id = 'insert-org-id-here' 
+
+# Specific mist Site ID Goes Here
+mist_site_id = 'insert-site-id-here'
+
+#Which API to use
+# Global 1 (AWS) - 'https://api.mist.com{}'
+# Global 3 (GCP) - 'https://api.ac2.mist.com{}'
+api_base_url = 'https://api.mist.com{}'
